@@ -1,0 +1,8 @@
+﻿## Interface: 11200
+## Title: SuperPlayerLink
+## Version: 1.1
+## Author: Bijou
+## Notes: Improve the function of player link.
+## Title-zhCN: 增强玩家链接
+## Notes-zhCN: 增强聊天窗口的玩家的链接功能。
+SuperPlayerLink.xml
